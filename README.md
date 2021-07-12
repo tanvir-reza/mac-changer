@@ -10,6 +10,6 @@ Clone This git
 
 ->>> cd mac-changer
 
-->>> chmod + 777 mac-Changer.py
+->>> chmod +777 mac-Changer.py
 
 ->>> python mac-Chanher.py
